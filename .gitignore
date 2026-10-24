@@ -1,0 +1,8 @@
+node_modules/
+client/dist/
+web3/artifacts/
+web3/cache/
+server/.env
+server/data/
+client/.env
+web3/.env
